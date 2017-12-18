@@ -3,7 +3,7 @@
 - [Poets] (#poets)
 - [Test] (#test)
 
-## Poets
+### Poets
 * Poe
 * Tolkien
 * Coming soon
@@ -11,4 +11,4 @@
   * Shelley
 
 
-## Test
+### Test
