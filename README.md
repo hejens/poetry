@@ -1,7 +1,7 @@
 # Poetry Repo
 
-[Poets] (http://www.finn.no)
-[Test] (#test)
+[Poets](http://www.finn.no)
+[Test](#test)
 
 ### Poets
 * Poe
