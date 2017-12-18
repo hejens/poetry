@@ -1,6 +1,6 @@
 # Poetry Repo
 
-[Poets] (#user-content-poets)
+[Poets] (http://www.finn.no)
 [Test] (#test)
 
 ### Poets
