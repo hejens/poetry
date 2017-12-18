@@ -1,7 +1,7 @@
 # Poetry Repo
 
-- [Poets] (#poets)
-- [Test] (#test)
+[Poets] (#poets)
+[Test] (#test)
 
 ### Poets
 * Poe
